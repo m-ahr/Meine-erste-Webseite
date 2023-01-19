@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://www.example.com/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/vitamine.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/mineralstoffe.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/kohlenhydrate.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/eiweiss.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/fette.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/impressum.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/datenschutz.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/cookies.html/</loc>
+   </url>
+   <url>
+      <loc>http://www.example.com/kontakt.html/</loc>
+   </url>
+</urlset> 
